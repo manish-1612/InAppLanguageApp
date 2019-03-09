@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TestInAppLanguage
+
+  Created by Manish  Kumar on 02/03/19.
+  Copyright © 2019 Manish  Kumar. All rights reserved.
+*/
+
+
+"MainString" = "The quick brown fox jumps over the lazy dog";
+"Back" = "Back";
+"NextPage" = "Next Page";

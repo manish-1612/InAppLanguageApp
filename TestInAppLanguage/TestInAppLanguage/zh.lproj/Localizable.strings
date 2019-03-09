@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  TestInAppLanguage
+
+  Created by Manish  Kumar on 02/03/19.
+  Copyright © 2019 Manish  Kumar. All rights reserved.
+*/
+
+"MainString" = "敏捷的棕色狐狸跳过了懒狗";
+"Back" = "背部";
+"NextPage" = "下一页";

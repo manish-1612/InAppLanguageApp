@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TestInAppLanguage
+
+  Created by Manish  Kumar on 02/03/19.
+  Copyright © 2019 Manish  Kumar. All rights reserved.
+*/
+
+
+"MainString" = "الثعلب البني السريع يقفز فوق الكلب الكسول";
+"Back" = "الى الخلف";
+"NextPage" = "الصفحة التالية";

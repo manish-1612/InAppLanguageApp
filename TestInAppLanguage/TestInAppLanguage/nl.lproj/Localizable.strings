@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  TestInAppLanguage
+
+  Created by Manish  Kumar on 02/03/19.
+  Copyright © 2019 Manish  Kumar. All rights reserved.
+*/
+
+
+"MainString" = "De snelle bruine vos springt over de luie hond";
+"Back" = "Terug";
+"NextPage" = "Volgende pagina";

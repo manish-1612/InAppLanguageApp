@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  TestInAppLanguage
+
+  Created by Manish  Kumar on 02/03/19.
+  Copyright © 2019 Manish  Kumar. All rights reserved.
+*/
+
+"MainString" = "A raposa marrom rápida salta sobre o cão preguiçoso";
+"Back" = "De volta";
+"NextPage" = "Próxima página";
